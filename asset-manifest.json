@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Lumora/static/css/main.d788fa86.css",
+    "main.js": "/Lumora/static/js/main.6f4c3a30.js",
+    "static/media/shyngot.jpg": "/Lumora/static/media/shyngot.f67671f2e85f30ecdd21.jpg",
+    "index.html": "/Lumora/index.html",
+    "main.d788fa86.css.map": "/Lumora/static/css/main.d788fa86.css.map",
+    "main.6f4c3a30.js.map": "/Lumora/static/js/main.6f4c3a30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d788fa86.css",
+    "static/js/main.6f4c3a30.js"
+  ]
+}

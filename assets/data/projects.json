@@ -1,0 +1,850 @@
+{
+  "Schools": [
+    {
+      "id": 1,
+      "name": "New Elementary Building",
+      "barangay": "Bangkal",
+      "city": "Makati City",
+      "province": "Metropolitan Manila",
+      "region": "Metropolitan Manila",
+      "status": "completed",
+      "statPct":100,
+      "budget": 5500000,
+      "contractor": "EduBuild Corp.",
+      "timeline": "Jan 2022 - Dec 2025",
+      "deadline": "2025"  ,
+      "bidding_info": [
+        {
+          "bidder": "Gab Co.",
+          "bid_price": 1000000,
+          "allocation": 700000,
+          "Earnings": 300000
+        },
+        {
+          "bidder": "Shy Co.",
+          "bid_price": 2000000,
+          "allocation": 1500000,
+          "Earnings": 500000
+        },
+        {
+          "bidder": "Pat Co.",
+          "bid_price": 1900000,
+          "allocation": 1700000,
+          "Earnings": 200000
+        },
+        {
+          "bidder": "Austin Co.",
+          "bid_price": 1500000,
+          "allocation": 1250000,
+          "Earnings": 250000
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "High School Rehab",
+      "barangay": "Pandaitan",
+      "city": "Davao City",
+      "province": "Davao del Sur",
+      "region": "Davao Region (Region XI)",
+      "status": "in_progress",
+      "statPct":60,
+      "budget": 7200000,
+      "contractor": "Mindanao Constructors",
+      "timeline": "Mar 2023 - Feb 2025",
+      "deadline": "2025",
+      "bidding_info": [
+        {
+          "bidder": "Mahal Co.",
+          "bid_price": 1000000,
+          "allocation": 700000,
+          "Earnings": 300000
+        },
+        {
+          "bidder": "Bu Co.",
+          "bid_price": 2000000,
+          "allocation": 1500000,
+          "Earnings": 500000
+        },
+        {
+          "bidder": "Bb Co.",
+          "bid_price": 1900000,
+          "allocation": 1700000,
+          "Earnings": 200000
+        },
+        {
+          "bidder": "Lab Co.",
+          "bid_price": 1500000,
+          "allocation": 1250000,
+          "Earnings": 250000
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "School Gym",
+      "barangay": "Sapang Maragul",
+      "city": "Tarlac City",
+      "province": "Tarlac",
+      "region": "Central Luzon (Region III)",
+      "status": "delayed",
+      "statPct":50,
+      "budget": 3500000,
+      "contractor": "NorthBuild Inc.",
+      "timeline": "Jun 2023 - Mar 2026",
+      "deadline": "2026",
+      "bidding_info": [
+        {
+          "bidder": "Arai Co.",
+          "bid_price": 1000000,
+          "allocation": 700000,
+          "Earnings": 300000
+        },
+        {
+          "bidder": "Sing Co.",
+          "bid_price": 2000000,
+          "allocation": 1500000,
+          "Earnings": 500000
+        },
+        {
+          "bidder": "Bi Co.",
+          "bid_price": 1900000,
+          "allocation": 1700000,
+          "Earnings": 200000
+        },
+        {
+          "bidder": "Pha Co.",
+          "bid_price": 1500000,
+          "allocation": 1250000,
+          "Earnings": 250000
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Classroom Expansion",
+      "barangay": "Talamban",
+      "city": "Cebu City",
+      "province": "Cebu",
+      "region": "Central Visayas (Region VII)",
+      "status": "completed",
+      "statPct":100,
+      "budget": 4600000,
+      "contractor": "BuildBright Co.",
+      "timeline": "May 2025 - Nov 2025",
+      "deadline": "2025",
+      "bidding_info": [
+        {
+          "bidder": "Ri Co.",
+          "bid_price": 1000000,
+          "allocation": 700000,
+          "Earnings": 300000
+        },
+        {
+          "bidder": "Blang Co.",
+          "bid_price": 2000000,
+          "allocation": 1500000,
+          "Earnings": 500000
+        },
+        {
+          "bidder": "Nilo Co.",
+          "bid_price": 1900000,
+          "allocation": 1700000,
+          "Earnings": 200000
+        },
+        {
+          "bidder": "Mowa Co.",
+          "bid_price": 1500000,
+          "allocation": 1250000,
+          "Earnings": 250000
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Elementary Annex",
+      "barangay": "Banilad",
+      "city": "Cebu City",
+      "province": "Cebu",
+      "region": "Central Visayas (Region VII)",
+      "status": "in_progress",
+      "statPct":30,
+      "budget": 5100000,
+      "contractor": "EduCore Builders",
+      "timeline": "Feb 2024 - Dec 2025",
+      "deadline": "2025",
+      "bidding_info": [
+        {
+          "bidder": "Bang Co.",
+          "bid_price": 1000000,
+          "allocation": 700000,
+          "Earnings": 300000
+        },
+        {
+          "bidder": "Sah Co.",
+          "bid_price": 2000000,
+          "allocation": 1500000,
+          "Earnings": 500000
+        },
+        {
+          "bidder": "Pogya Co.",
+          "bid_price": 1900000,
+          "allocation": 1700000,
+          "Earnings": 200000
+        },
+        {
+          "bidder": "Kho Co.",
+          "bid_price": 1500000,
+          "allocation": 1250000,
+          "Earnings": 250000
+        }
+      ]
+    }
+  ],
+  "Flood_control": [
+    {
+      "id": 6,
+      "name": "Drainage System Upgrade",
+      "barangay": "Barangay 176",
+      "city": "Caloocan",
+      "province": "Metropolitan Manila",
+      "region": "Metropolitan Manila",
+      "status": "completed",
+      "statPct":100,
+      "budget": 3000000,
+      "contractor": "UrbanFlow Solutions",
+      "timeline": "Jan 2025 - Jun 2027",
+      "deadline": "2027",
+      "bidding_info": [
+        {
+          "bidder": "Big Co.",
+          "bid_price": 1000000,
+          "allocation": 700000,
+          "Earnings": 300000
+        },
+        {
+          "bidder": "Medium Co.",
+          "bid_price": 2000000,
+          "allocation": 1500000,
+          "Earnings": 500000
+        },
+        {
+          "bidder": "Small Co.",
+          "bid_price": 1900000,
+          "allocation": 1700000,
+          "Earnings": 200000
+        },
+        {
+          "bidder": "Bar Co.",
+          "bid_price": 1500000,
+          "allocation": 1250000,
+          "Earnings": 250000
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Riverbank Protection",
+      "barangay": "San Jose",
+      "city": "Taguig",
+      "province": "Metropolitan Manila",
+      "region": "Metropolitan Manila",
+      "status": "in_progress",
+      "statPct":70,
+      "budget": 4800000,
+      "contractor": "MetroFlood Control",
+      "timeline": "Jul 2025 - Apr 2027",
+      "deadline": "2027",
+      "bidding_info": [
+        {
+          "bidder": "Loh Co.",
+          "bid_price": 1000000,
+          "allocation": 700000,
+          "Earnings": 300000
+        },
+        {
+          "bidder": "Ah Sahwa Co.",
+          "bid_price": 2000000,
+          "allocation": 1500000,
+          "Earnings": 500000
+        },
+        {
+          "bidder": "Stuff Co.",
+          "bid_price": 1900000,
+          "allocation": 1700000,
+          "Earnings": 200000
+        },
+        {
+          "bidder": "Things Co.",
+          "bid_price": 1500000,
+          "allocation": 1250000,
+          "Earnings": 250000
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Flood Gate Installation",
+      "barangay": "Balulang",
+      "city": "Cagayan de Oro City",
+      "province": "Misamis Oriental",
+      "region": "Northern Mindanao (Region X)",
+      "status": "in_progress",
+      "statPct":40,
+      "budget": 6000000,
+      "contractor": "Mindanao Infra",
+      "timeline": "Sep 2023 - Aug 2026",
+      "deadline": "2026",
+      "bidding_info": [
+        {
+          "bidder": "Gab Co.",
+          "bid_price": 1000000,
+          "allocation": 700000,
+          "Earnings": 300000
+        },
+        {
+          "bidder": "Shy Co.",
+          "bid_price": 2000000,
+          "allocation": 1500000,
+          "Earnings": 500000
+        },
+        {
+          "bidder": "Pat Co.",
+          "bid_price": 1900000,
+          "allocation": 1700000,
+          "Earnings": 200000
+        },
+        {
+          "bidder": "Austin Co.",
+          "bid_price": 1500000,
+          "allocation": 1250000,
+          "Earnings": 250000
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Drainage Rehabilitation",
+      "barangay": "Canlubang",
+      "city": "Calamba City",
+      "province": "Laguna",
+      "region": "CALABARZON (Region IV-A)",
+      "status": "delayed",
+      "statPct":20,
+      "budget": 2700000,
+      "contractor": "SouthDrain Corp.",
+      "timeline": "Mar 2025 - Nov 2026",
+      "deadline": "2026",
+      "bidding_info": [
+        {
+          "bidder": "Gab Co.",
+          "bid_price": 1000000,
+          "allocation": 700000,
+          "Earnings": 300000
+        },
+        {
+          "bidder": "Shy Co.",
+          "bid_price": 2000000,
+          "allocation": 1500000,
+          "Earnings": 500000
+        },
+        {
+          "bidder": "Pat Co.",
+          "bid_price": 1900000,
+          "allocation": 1700000,
+          "Earnings": 200000
+        },
+        {
+          "bidder": "Austin Co.",
+          "bid_price": 1500000,
+          "allocation": 1250000,
+          "Earnings": 250000
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Flood Mitigation Project",
+      "barangay": "Santa Teresa",
+      "city": "Malilipot",
+      "province": "Albay",
+      "region": "Bicol Region (Region V)",
+      "status": "completed",
+      "statPct":100,
+      "budget": 5200000,
+      "contractor": "Davao Dikes Inc.",
+      "timeline": "Jan 2025 - Dec 2026",
+      "deadline": "2026",
+      "bidding_info": [
+        {
+          "bidder": "Gab Co.",
+          "bid_price": 1000000,
+          "allocation": 700000,
+          "Earnings": 300000
+        },
+        {
+          "bidder": "Shy Co.",
+          "bid_price": 2000000,
+          "allocation": 1500000,
+          "Earnings": 500000
+        },
+        {
+          "bidder": "Pat Co.",
+          "bid_price": 1900000,
+          "allocation": 1700000,
+          "Earnings": 200000
+        },
+        {
+          "bidder": "Austin Co.",
+          "bid_price": 1500000,
+          "allocation": 1250000,
+          "Earnings": 250000
+        }
+      ]
+    }
+  ],
+  "Roads": [
+    {
+      "id": 11,
+      "name": "Barangay Access Road",
+      "barangay": "Bagumbayan",
+      "city": "Taguig",
+      "province": "Metropolitan Manila",
+      "region": "Metropolitan Manila",
+      "status": "in_progress",
+      "statPct":90,
+      "budget": 3800000,
+      "contractor": "MetroRoad Builders",
+      "timeline": "Feb 2024 - Sep 2025",
+      "deadline": "2025",
+      "bidding_info": [
+        {
+          "bidder": "Gab Co.",
+          "bid_price": 1000000,
+          "allocation": 700000,
+          "Earnings": 300000
+        },
+        {
+          "bidder": "Shy Co.",
+          "bid_price": 2000000,
+          "allocation": 1500000,
+          "Earnings": 500000
+        },
+        {
+          "bidder": "Pat Co.",
+          "bid_price": 1900000,
+          "allocation": 1700000,
+          "Earnings": 200000
+        },
+        {
+          "bidder": "Austin Co.",
+          "bid_price": 1500000,
+          "allocation": 1250000,
+          "Earnings": 250000
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Purok Road Paving",
+      "barangay": "Macabalan",
+      "city": "Cagayan de Oro",
+      "province": "Misamis Oriental",
+      "region": "Northern Mindanao (Region X)",
+      "status": "completed",
+      "statPct":100,
+      "budget": 2500000,
+      "contractor": "Northern Roads Inc.",
+      "timeline": "Apr 2025 - Aug 2025",
+      "deadline": "2025",
+      "bidding_info": [
+        {
+          "bidder": "Gab Co.",
+          "bid_price": 1000000,
+          "allocation": 700000,
+          "Earnings": 300000
+        },
+        {
+          "bidder": "Shy Co.",
+          "bid_price": 2000000,
+          "allocation": 1500000,
+          "Earnings": 500000
+        },
+        {
+          "bidder": "Pat Co.",
+          "bid_price": 1900000,
+          "allocation": 1700000,
+          "Earnings": 200000
+        },
+        {
+          "bidder": "Austin Co.",
+          "bid_price": 1500000,
+          "allocation": 1250000,
+          "Earnings": 250000
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Farm-to-Market Road",
+      "barangay": "Matina",
+      "city": "Davao City",
+      "province": "Davao del Sur",
+      "region": "Davao Region (Region XI)",
+      "status": "in_progress",
+      "statPct":70,
+      "budget": 4300000,
+      "contractor": "AgriInfra Corp.",
+      "timeline": "Jan 2025 - Nov 2026",
+      "deadline": "2026",
+      "bidding_info": [
+        {
+          "bidder": "Gab Co.",
+          "bid_price": 1000000,
+          "allocation": 700000,
+          "Earnings": 300000
+        },
+        {
+          "bidder": "Shy Co.",
+          "bid_price": 2000000,
+          "allocation": 1500000,
+          "Earnings": 500000
+        },
+        {
+          "bidder": "Pat Co.",
+          "bid_price": 1900000,
+          "allocation": 1700000,
+          "Earnings": 200000
+        },
+        {
+          "bidder": "Austin Co.",
+          "bid_price": 1500000,
+          "allocation": 1250000,
+          "Earnings": 250000
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Asphalt Resurfacing",
+      "barangay": "Sangandaan",
+      "city": "Caloocan",
+      "province": "Metropolitan Manila",
+      "region": "Metropolitan Manila",
+      "status": "delayed",
+      "statPct":70,
+      "budget": 3100000,
+      "contractor": "Urban Roads Co.",
+      "timeline": "May 2023 - Dec 2025",
+      "deadline": "2025",
+      "bidding_info": [
+        {
+          "bidder": "Gab Co.",
+          "bid_price": 1000000,
+          "allocation": 700000,
+          "Earnings": 300000
+        },
+        {
+          "bidder": "Shy Co.",
+          "bid_price": 2000000,
+          "allocation": 1500000,
+          "Earnings": 500000
+        },
+        {
+          "bidder": "Pat Co.",
+          "bid_price": 1900000,
+          "allocation": 1700000,
+          "Earnings": 200000
+        },
+        {
+          "bidder": "Austin Co.",
+          "bid_price": 1500000,
+          "allocation": 1250000,
+          "Earnings": 250000
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Barangay Road Extension",
+      "barangay": "Pulangbato",
+      "city": "Quezon City",
+      "province": "Metropolitan Manila",
+      "region": "Metropolitan Manila",
+      "status": "completed",
+      "statPct":100,
+      "budget": 3900000,
+      "contractor": "QCity Infra",
+      "timeline": "Jul 2025 - Feb 2026",
+      "deadline": "2026",
+      "bidding_info": [
+        {
+          "bidder": "Gab Co.",
+          "bid_price": 1000000,
+          "allocation": 700000,
+          "Earnings": 300000
+        },
+        {
+          "bidder": "Shy Co.",
+          "bid_price": 2000000,
+          "allocation": 1500000,
+          "Earnings": 500000
+        },
+        {
+          "bidder": "Pat Co.",
+          "bid_price": 1900000,
+          "allocation": 1700000,
+          "Earnings": 200000
+        },
+        {
+          "bidder": "Austin Co.",
+          "bid_price": 1500000,
+          "allocation": 1250000,
+          "Earnings": 250000
+        }
+      ]
+    }
+  ],
+  "Bridges": [
+    {
+      "id": 16,
+      "name": "Footbridge Construction",
+      "barangay": "Poblacion",
+      "city": "Makati",
+      "province": "Metropolitan Manila",
+      "region": "Metropolitan Manila",
+      "status": "completed",
+      "statPct":100,
+      "budget": 2000000,
+      "contractor": "SkyBridge Builders",
+      "timeline": "Jan 2025 - May 2026",
+      "deadline": "2026",
+      "bidding_info": [
+        {
+          "bidder": "Gab Co.",
+          "bid_price": 1000000,
+          "allocation": 700000,
+          "Earnings": 300000
+        },
+        {
+          "bidder": "Shy Co.",
+          "bid_price": 2000000,
+          "allocation": 1500000,
+          "Earnings": 500000
+        },
+        {
+          "bidder": "Pat Co.",
+          "bid_price": 1900000,
+          "allocation": 1700000,
+          "Earnings": 200000
+        },
+        {
+          "bidder": "Austin Co.",
+          "bid_price": 1500000,
+          "allocation": 1250000,
+          "Earnings": 250000
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Concrete Bridge Rehab",
+      "barangay": "Lahug",
+      "city": "Cebu City",
+      "province": "Cebu",
+      "region": "Central Visayas (Region VII)",
+      "status": "in_progress",
+      "statPct":60,
+      "budget": 4700000,
+      "contractor": "Visayas Infra Dev.",
+      "timeline": "Feb 2024 - Oct 2025",
+      "deadline": "2025",
+      "bidding_info": [
+        {
+          "bidder": "Gab Co.",
+          "bid_price": 1000000,
+          "allocation": 700000,
+          "Earnings": 300000
+        },
+        {
+          "bidder": "Shy Co.",
+          "bid_price": 2000000,
+          "allocation": 1500000,
+          "Earnings": 500000
+        },
+        {
+          "bidder": "Pat Co.",
+          "bid_price": 1900000,
+          "allocation": 1700000,
+          "Earnings": 200000
+        },
+        {
+          "bidder": "Austin Co.",
+          "bid_price": 1500000,
+          "allocation": 1250000,
+          "Earnings": 250000
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Steel Footbridge",
+      "barangay": "Talomo",
+      "city": "Davao City",
+      "province": "Davao del Sur",
+      "region": "Davao Region (Region XI)",
+      "status": "completed",
+      "statPct":100,
+      "budget": 2600000,
+      "contractor": "Davao Steel Structures",
+      "timeline": "Aug 2025 - Jan 2026",
+      "deadline": "2026",
+      "bidding_info": [
+        {
+          "bidder": "Gab Co.",
+          "bid_price": 1000000,
+          "allocation": 700000,
+          "Earnings": 300000
+        },
+        {
+          "bidder": "Shy Co.",
+          "bid_price": 2000000,
+          "allocation": 1500000,
+          "Earnings": 500000
+        },
+        {
+          "bidder": "Pat Co.",
+          "bid_price": 1900000,
+          "allocation": 1700000,
+          "Earnings": 200000
+        },
+        {
+          "bidder": "Austin Co.",
+          "bid_price": 1500000,
+          "allocation": 1250000,
+          "Earnings": 250000
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Bridge Expansion",
+      "barangay": "Barangay 744",
+      "city": "Manila",
+      "province": "Metropolitan Manila",
+      "region": "Metropolitan Manila",
+      "status": "delayed",
+      "statPct":10,
+      "budget": 5800000,
+      "contractor": "Capital Builders",
+      "timeline": "Mar 2025 - Feb 2026",
+      "deadline": "2026",
+      "bidding_info": [
+        {
+          "bidder": "Gab Co.",
+          "bid_price": 1000000,
+          "allocation": 700000,
+          "Earnings": 300000
+        },
+        {
+          "bidder": "Shy Co.",
+          "bid_price": 2000000,
+          "allocation": 1500000,
+          "Earnings": 500000
+        },
+        {
+          "bidder": "Pat Co.",
+          "bid_price": 1900000,
+          "allocation": 1700000,
+          "Earnings": 200000
+        },
+        {
+          "bidder": "Austin Co.",
+          "bid_price": 1500000,
+          "allocation": 1250000,
+          "Earnings": 250000
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Barangay Footbridge",
+      "barangay": "San Vicente",
+      "city": "Angeles City",
+      "province": "Pampanga",
+      "region": "Central Luzon (Region III)",
+      "status": "in_progress",
+      "statPct":50,
+      "budget": 3000000,
+      "contractor": "PampInfra Solutions",
+      "timeline": "May 2024 - Mar 2025",
+      "deadline": "2025",
+      "bidding_info": [
+        {
+          "bidder": "Gab Co.",
+          "bid_price": 1000000,
+          "allocation": 700000,
+          "Earnings": 300000
+        },
+        {
+          "bidder": "Shy Co.",
+          "bid_price": 2000000,
+          "allocation": 1500000,
+          "Earnings": 500000
+        },
+        {
+          "bidder": "Pat Co.",
+          "bid_price": 1900000,
+          "allocation": 1700000,
+          "Earnings": 200000
+        },
+        {
+          "bidder": "Austin Co.",
+          "bid_price": 1500000,
+          "allocation": 1250000,
+          "Earnings": 250000
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Second Barangay Footbridge",
+      "barangay": "San Vicente",
+      "city": "Angeles City",
+      "province": "Pampanga",
+      "region": "Central Luzon (Region III)",
+      "status": "in_progress",
+      "statPct":40,
+      "budget": 3000000,
+      "contractor": "PampInfra Solutions",
+      "timeline": "May 2024 - Mar 2025",
+      "deadline": "2025",
+      "bidding_info": [
+        {
+          "bidder": "Gab Co.",
+          "bid_price": 1000000,
+          "allocation": 700000,
+          "Earnings": 300000
+        },
+        {
+          "bidder": "Shy Co.",
+          "bid_price": 2000000,
+          "allocation": 1500000,
+          "Earnings": 500000
+        },
+        {
+          "bidder": "Pat Co.",
+          "bid_price": 1900000,
+          "allocation": 1700000,
+          "Earnings": 200000
+        },
+        {
+          "bidder": "Austin Co.",
+          "bid_price": 1500000,
+          "allocation": 1250000,
+          "Earnings": 250000
+        }
+      ]
+    }
+  ]
+}
