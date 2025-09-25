@@ -1,5 +1,9 @@
 import styles from '../styles/References.module.css'
 
+import a from '../assets/data/images/coa.png'
+import b from '../assets/data/images/bir.png'
+import c from '../assets/data/images/dotr.png'
+import d from '../assets/data/images/philgeps.png'
 function References(){
 
     return (
@@ -8,24 +12,20 @@ function References(){
         
             <div className={styles.main}>
                 <div className={styles.dept}>
-                    <img src="/assets/images/coa.png" alt="logo" />
+                    <img src={a} alt="logo" />
                     <h3>COA</h3>
                 </div>
                 <div className={styles.dept}>
-                    <img src="/assets/images/bir.png" alt="logo" />
+                    <img src={b} alt="logo" />
                     <h3>BIR</h3>
                 </div>
                 <div className={styles.dept}>
-                    <img src="/assets/images/dpwh.png" alt="logo" />
+                    <img src={c} alt="logo" />
                     <h3>DPWH</h3>
                 </div>
                 <div className={styles.dept}>
-                    <img src="/assets/images/dotr.png" alt="logo" />
+                    <img src={d} alt="logo" />
                     <h3>DOTr</h3>
-                </div>
-                <div className={styles.dept}>
-                    <img src="/assets/images/philgeps.png" alt="logo" />
-                    <h3>PhilGEPS</h3>
                 </div>
             </div>
 

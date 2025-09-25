@@ -2,6 +2,11 @@ import React, { useState, useEffect, useRef } from "react";
 
 import styles from '../styles/Bidding.module.css'
 
+import regionsData from "../assets/data/Regions.json";
+import provincesData from "../assets/data/Provinces.json";
+import municitiesData from "../assets/data/MuniCities.json";
+import projectsData from "../assets/data/projects.json";
+
 const normalize = (s) =>
   (s || "").toLowerCase().replace(/\s+/g, "").replace(/[^a-z0-9]/g, "");
 
@@ -22,18 +27,21 @@ export default function RegionProjectDropdown() {
 
   // Load projects
   useEffect(() => {
-    fetch("/assets/data/projects.json")
-      .then((res) => res.json())
-      .then((data) => {
-        const combined = [
-          ...(data.Schools || []),
-          ...(data.Flood_control || []),
-          ...(data.Roads || []),
-          ...(data.Bridges || []),
-        ];
-        setProjects(combined);
-      });
-  }, []);
+    const combined = [
+        ...(projectsData.Schools || []),
+        ...(projectsData.Flood_control || []),
+        ...(projectsData.Roads || []),
+        ...(projectsData.Bridges || []),
+    ];
+    setProjects(combined);
+    }, []);
+
+    // Load region/province/city data directly
+    useEffect(() => {
+    setRegions(regionsData.features || []);
+    setProvinces(provincesData.features || []);
+    setMunicities(municitiesData.features || []);
+    }, []);
 
   // Load region/province/city data
   useEffect(() => {

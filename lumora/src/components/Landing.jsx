@@ -1,5 +1,11 @@
 import React from "react";
 import styles from '../styles/Landing.module.css'
+import a from '../assets/data/images/news.jfif'
+import b from '../assets/data/images/news 2.jfif'
+import c from '../assets/data/images/news 3.jfif'
+import d from '../assets/data/images/news 4.jpg'
+import e from '../assets/data/images/news 5.jpg'
+import f from '../assets/data/images/news 6.jfif'
 
 function Landing(){
 
@@ -17,22 +23,22 @@ function Landing(){
                     <h1>News and Articles</h1>
                     <div className={styles.news_container}>
                         <div className={styles.news}>
-                            <img src="/assets/images/news.jfif" alt="img" />
+                            <img src={a} alt="img" />
                         </div>
                         <div className={styles.news}>
-                            <img src="/assets/images/news 2.jfif" alt="" />
+                            <img src={b} alt="" />
                         </div>
                         <div className={styles.news}>
-                            <img src="/assets/images/news 3.jfif" alt="" />
+                            <img src={c} alt="" />
                         </div>
                         <div className={styles.news}>
-                            <img src="/assets/images/news 4.jpg" alt="" />
+                            <img src={d} alt="" />
                         </div>
                         <div className={styles.news}>
-                            <img src="/assets/images/news 5.jpg" alt="" />
+                            <img src={e} alt="" />
                         </div>
                         <div className={styles.news}>
-                            <img src="/assets/images/news 6.jfif" alt="" />
+                            <img src={f} alt="" />
                         </div>
                     </div>
                 </div>

@@ -8,6 +8,12 @@ import {
 } from "react-simple-maps";
 import { geoCentroid } from "d3-geo";
 
+import regionsData from "../assets/data/Regions.json";
+import provincesData from "../assets/data/Provinces.json";
+import municitiesData from "../assets/data/MuniCities.json";
+import barangaysData from "../assets/data/Barangays.json";
+import projectsData from "../assets/data/projects.json";
+
 import styles from "../styles/Map.module.css";
 
 export default function PhilippinesMap() {
@@ -38,32 +44,25 @@ export default function PhilippinesMap() {
       .replace(/[^a-z0-9]/g, "");
 
   useEffect(() => {
-    Promise.all([
-      fetch("/assets/data/Regions.json").then((r) => r.json()),
-      fetch("/assets/data/Provinces.json").then((r) => r.json()),
-      fetch("/assets/data/MuniCities.json").then((r) => r.json()),
-      fetch("/assets/data/Barangays.json").then((r) => r.json()),
-      fetch("/assets/data/projects.json").then((r) => r.json()),
-    ]).then(([r, p, m, b, pr]) => {
-      setRegions(r);
-      setProvinces(p);
-      setMunicities(m);
-      setBarangays(b);
+  // ✅ We already imported JSONs, just set them to state
+  setRegions(regionsData);
+  setProvinces(provincesData);
+  setMunicities(municitiesData);
+  setBarangays(barangaysData);
 
-      // ✅ Flatten projects.json (object-of-arrays) into one array
-      let allProjects = [];
-      Object.entries(pr).forEach(([category, arr]) => {
-        if (Array.isArray(arr)) {
-          arr.forEach((proj) => {
-            allProjects.push({ ...proj, category });
-          });
-        }
+  // ✅ Flatten projects.json
+  let allProjects = [];
+  Object.entries(projectsData).forEach(([category, arr]) => {
+    if (Array.isArray(arr)) {
+      arr.forEach((proj) => {
+        allProjects.push({ ...proj, category });
       });
+    }
+  });
 
-      setProjects(allProjects);
-      console.log("✅ Loaded all data files");
-    });
-  }, []);
+  setProjects(allProjects);
+  console.log("✅ Loaded all data from imports");
+}, []);
 
   const handleClick = (geo) => {
     const centroid = geoCentroid(geo);
