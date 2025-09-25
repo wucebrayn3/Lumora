@@ -1,0 +1,19 @@
+.main{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.dept{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20%;
+    max-width: 500px;
+    padding: 20px;
+    img{
+        width: 100%;
+        height: auto;
+    }
+}

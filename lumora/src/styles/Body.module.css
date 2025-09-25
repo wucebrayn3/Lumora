@@ -1,0 +1,10 @@
+.main{
+    width: 100vw;
+    min-height: 100vh;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 0 15px rgba(0,0,0,0.75);
+    z-index: 10;
+    /* overflow-y: scroll; */
+}
