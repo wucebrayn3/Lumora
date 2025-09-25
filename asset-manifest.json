@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/Lumora/static/css/main.38544549.css",
+    "main.css": "/Lumora/static/css/main.7f93204f.css",
     "main.js": "/Lumora/static/js/main.74f0cd4c.js",
     "static/media/bir.png": "/Lumora/static/media/bir.c12d867d50e4f4825cef.png",
-    "static/media/shyngot.jpg": "/Lumora/static/media/shyngot.f67671f2e85f30ecdd21.jpg",
+    "static/media/handfknshake.jpg": "/Lumora/static/media/handfknshake.d1d0c537fb28b953684a.jpg",
     "static/media/news 4.jpg": "/Lumora/static/media/news 4.12d6e29a15f6ea450220.jpg",
     "static/media/dotr.png": "/Lumora/static/media/dotr.1292159f2007ad90d136.png",
     "static/media/news 5.jpg": "/Lumora/static/media/news 5.aa2bf89bdb182c904e2d.jpg",
@@ -14,11 +14,11 @@
     "static/media/news 2.jfif": "/Lumora/static/media/news 2.04d3241e97d73dfb6fdd.jfif",
     "static/media/news 6.jfif": "/Lumora/static/media/news 6.c5f7b89d38df3ca684ce.jfif",
     "index.html": "/Lumora/index.html",
-    "main.38544549.css.map": "/Lumora/static/css/main.38544549.css.map",
+    "main.7f93204f.css.map": "/Lumora/static/css/main.7f93204f.css.map",
     "main.74f0cd4c.js.map": "/Lumora/static/js/main.74f0cd4c.js.map"
   },
   "entrypoints": [
-    "static/css/main.38544549.css",
+    "static/css/main.7f93204f.css",
     "static/js/main.74f0cd4c.js"
   ]
 }
