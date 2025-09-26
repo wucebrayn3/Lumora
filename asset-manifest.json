@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/Lumora/static/css/main.7f93204f.css",
-    "main.js": "/Lumora/static/js/main.74f0cd4c.js",
+    "main.css": "/Lumora/static/css/main.e151ef92.css",
+    "main.js": "/Lumora/static/js/main.5a4be309.js",
     "static/media/bir.png": "/Lumora/static/media/bir.c12d867d50e4f4825cef.png",
     "static/media/handfknshake.jpg": "/Lumora/static/media/handfknshake.d1d0c537fb28b953684a.jpg",
     "static/media/news 4.jpg": "/Lumora/static/media/news 4.12d6e29a15f6ea450220.jpg",
     "static/media/dotr.png": "/Lumora/static/media/dotr.1292159f2007ad90d136.png",
+    "static/media/MOORA LIGHT REGULER.otf": "/Lumora/static/media/MOORA LIGHT REGULER.9f5923fdf3207b1a7fac.otf",
     "static/media/news 5.jpg": "/Lumora/static/media/news 5.aa2bf89bdb182c904e2d.jpg",
     "static/media/philgeps.png": "/Lumora/static/media/philgeps.b51f1bd307a8ad2274f0.png",
     "static/media/coa.png": "/Lumora/static/media/coa.f4f3e784e7b7da122458.png",
+    "static/media/instagram.png": "/Lumora/static/media/instagram.edb90ecc706a7a25542b.png",
     "static/media/news.jfif": "/Lumora/static/media/news.52b41195efd3d3098d01.jfif",
     "static/media/news 3.jfif": "/Lumora/static/media/news 3.bc65dec4a979609cbb95.jfif",
+    "static/media/envelope.png": "/Lumora/static/media/envelope.43aede590ddfdd32f924.png",
     "static/media/news 2.jfif": "/Lumora/static/media/news 2.04d3241e97d73dfb6fdd.jfif",
     "static/media/news 6.jfif": "/Lumora/static/media/news 6.c5f7b89d38df3ca684ce.jfif",
     "index.html": "/Lumora/index.html",
-    "main.7f93204f.css.map": "/Lumora/static/css/main.7f93204f.css.map",
-    "main.74f0cd4c.js.map": "/Lumora/static/js/main.74f0cd4c.js.map"
+    "main.e151ef92.css.map": "/Lumora/static/css/main.e151ef92.css.map",
+    "main.5a4be309.js.map": "/Lumora/static/js/main.5a4be309.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f93204f.css",
-    "static/js/main.74f0cd4c.js"
+    "static/css/main.e151ef92.css",
+    "static/js/main.5a4be309.js"
   ]
 }
