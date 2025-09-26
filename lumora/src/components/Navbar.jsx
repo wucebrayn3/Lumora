@@ -13,7 +13,7 @@ function Navbar( { onNavigate } ){
 
         <>
             <div className={styles.main}>
-                <h1>LUMORA</h1>
+                <h1 onClick={()=> onNavigate('landing')}>LUMORA</h1>
                 <div className={styles.buttons}>
                     <button className={styles.navbtn} onClick={()=> onNavigate('landing')}>Home</button>
                     <button className={styles.navbtn} onClick={()=> onNavigate('projects')}>Projects</button>

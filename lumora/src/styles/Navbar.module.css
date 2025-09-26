@@ -10,6 +10,15 @@
     z-index: 100;
 }
 
+.main h1{
+  transition: 0.2 ease-in;
+}
+
+.main h1:hover{
+  filter: drop-shadow(0 0 10px rgba(0,0,0,0.5));
+  cursor: pointer;
+}
+
 .buttons{
     display: flex;
     width: 50%;
