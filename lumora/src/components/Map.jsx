@@ -196,7 +196,7 @@ export default function PhilippinesMap() {
     <div className={styles.main}>
 
       <div className={styles.map} style={{ position: "relative" }}>
-        <h2>{level.toUpperCase()}</h2>
+        <h2 id={styles.levelh3}>{"Level:" + " " + level.toUpperCase()}</h2>
         {level !== "regions" && (
           <button onClick={goBack} style={{ marginBottom: "10px" }}>
             ⬅ Back

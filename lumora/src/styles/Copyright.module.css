@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: fit-content;
+    padding: 5px;
+    background-color: #001d3d;
+    color: white;
+}
+
+.main p{
+    margin: 0;
+    font-size: 0.6rem;
+}
