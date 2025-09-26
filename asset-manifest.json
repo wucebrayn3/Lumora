@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Lumora/static/css/main.e151ef92.css",
-    "main.js": "/Lumora/static/js/main.5a4be309.js",
+    "main.js": "/Lumora/static/js/main.03aa0d8c.js",
     "static/media/bir.png": "/Lumora/static/media/bir.c12d867d50e4f4825cef.png",
     "static/media/handfknshake.jpg": "/Lumora/static/media/handfknshake.d1d0c537fb28b953684a.jpg",
     "static/media/news 4.jpg": "/Lumora/static/media/news 4.12d6e29a15f6ea450220.jpg",
@@ -18,10 +18,10 @@
     "static/media/news 6.jfif": "/Lumora/static/media/news 6.c5f7b89d38df3ca684ce.jfif",
     "index.html": "/Lumora/index.html",
     "main.e151ef92.css.map": "/Lumora/static/css/main.e151ef92.css.map",
-    "main.5a4be309.js.map": "/Lumora/static/js/main.5a4be309.js.map"
+    "main.03aa0d8c.js.map": "/Lumora/static/js/main.03aa0d8c.js.map"
   },
   "entrypoints": [
     "static/css/main.e151ef92.css",
-    "static/js/main.5a4be309.js"
+    "static/js/main.03aa0d8c.js"
   ]
 }
