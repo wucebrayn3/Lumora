@@ -845,6 +845,89 @@
           "Earnings": 250000
         }
       ]
+    },
+
+
+
+    {
+      "id": 22,
+      "name": "Road Widening",
+      "barangay": "Barangay 9",
+      "city": "Lucena City",
+      "province": "Quezon",
+      "region": "CALABARZON (Region IV-A)",
+      "status": "in_progress",
+      "statPct":40,
+      "budget": 3000000,
+      "contractor": "Lian Ju",
+      "timeline": "May 2024 - Mar 2025",
+      "deadline": "2025",
+      "bidding_info": [
+        {
+          "bidder": "Chris Co.",
+          "bid_price": 1000000,
+          "allocation": 700000,
+          "Earnings": 300000
+        },
+        {
+          "bidder": "Tene Co.",
+          "bid_price": 2000000,
+          "allocation": 1500000,
+          "Earnings": 500000
+        },
+        {
+          "bidder": "Shy Co.",
+          "bid_price": 1900000,
+          "allocation": 1700000,
+          "Earnings": 200000
+        },
+        {
+          "bidder": "Ane Co.",
+          "bid_price": 1500000,
+          "allocation": 1250000,
+          "Earnings": 250000
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Covered Court Construction",
+      "barangay": "Barangay 10",
+      "city": "Lucena City",
+      "province": "Quezon",
+      "region": "CALABARZON (Region IV-A)",
+      "status": "in_progress",
+      "statPct":70,
+      "budget": 3000000,
+      "contractor": "Lian Ju",
+      "timeline": "September 2025 - August 2026",
+      "deadline": "2026",
+      "bidding_info": [
+        {
+          "bidder": "Bara Co.",
+          "bid_price": 1000000,
+          "allocation": 700000,
+          "Earnings": 300000
+        },
+        {
+          "bidder": "Rnd Co.",
+          "bid_price": 2000000,
+          "allocation": 1500000,
+          "Earnings": 500000
+        },
+        {
+          "bidder": "Ki Co.",
+          "bid_price": 1900000,
+          "allocation": 1700000,
+          "Earnings": 200000
+        },
+        {
+          "bidder": "Coco Co.",
+          "bid_price": 1500000,
+          "allocation": 1250000,
+          "Earnings": 250000
+        }
+      ]
     }
   ]
 }
