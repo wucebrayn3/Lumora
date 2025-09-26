@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Lumora/static/css/main.556668ee.css",
-    "main.js": "/Lumora/static/js/main.4079c655.js",
+    "main.css": "/Lumora/static/css/main.b8992796.css",
+    "main.js": "/Lumora/static/js/main.b3af047a.js",
     "static/media/bir.png": "/Lumora/static/media/bir.c12d867d50e4f4825cef.png",
     "static/media/handfknshake.jpg": "/Lumora/static/media/handfknshake.d1d0c537fb28b953684a.jpg",
     "static/media/news 4.jpg": "/Lumora/static/media/news 4.12d6e29a15f6ea450220.jpg",
@@ -17,11 +17,11 @@
     "static/media/news 2.jfif": "/Lumora/static/media/news 2.04d3241e97d73dfb6fdd.jfif",
     "static/media/news 6.jfif": "/Lumora/static/media/news 6.c5f7b89d38df3ca684ce.jfif",
     "index.html": "/Lumora/index.html",
-    "main.556668ee.css.map": "/Lumora/static/css/main.556668ee.css.map",
-    "main.4079c655.js.map": "/Lumora/static/js/main.4079c655.js.map"
+    "main.b8992796.css.map": "/Lumora/static/css/main.b8992796.css.map",
+    "main.b3af047a.js.map": "/Lumora/static/js/main.b3af047a.js.map"
   },
   "entrypoints": [
-    "static/css/main.556668ee.css",
-    "static/js/main.4079c655.js"
+    "static/css/main.b8992796.css",
+    "static/js/main.b3af047a.js"
   ]
 }
