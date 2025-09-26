@@ -15,11 +15,11 @@ function Navbar( { onNavigate } ){
             <div className={styles.main}>
                 <h1>LUMORA</h1>
                 <div className={styles.buttons}>
-                    <button onClick={()=> onNavigate('landing')}>Home</button>
-                    <button onClick={()=> onNavigate('projects')}>Projects</button>
+                    <button className={styles.navbtn} onClick={()=> onNavigate('landing')}>Home</button>
+                    <button className={styles.navbtn} onClick={()=> onNavigate('projects')}>Projects</button>
                     
                     <div className={styles.dropdown}>
-                        <button onClick={toggleDropdown}>Status ▾</button>
+                        <button className={styles.navbtn} onClick={toggleDropdown}>Status ▾</button>
                         {showDropdown && (
                             <div className={styles.dropdownContent}>
                             <button onClick={() => onNavigate("budgetStatus")}>
@@ -35,7 +35,7 @@ function Navbar( { onNavigate } ){
                         )}
                     </div>
 
-                    <button onClick={()=> onNavigate('references')}>References</button>
+                    <button className={styles.navbtn} onClick={()=> onNavigate('references')}>References</button>
                 </div>
             </div>
         </>

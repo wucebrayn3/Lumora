@@ -49,14 +49,14 @@ const DataVisualization = () => {
               dataKey="actualSavings"
               barSize={40}
               fill="#0EC7CD"
-              name="Actual Savings"
+              name="Actual expenses"
             />
             <Line
               type="monotone"
               dataKey="targetSavings"
               stroke="#ff7300"
-              strokeWidth={2}
-              name="Target Savings"
+              strokeWidth={3}
+              name="Benchmark"
             />
           </ComposedChart>
         </ResponsiveContainer>

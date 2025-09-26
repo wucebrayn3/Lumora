@@ -9,61 +9,61 @@
         {
             "month": "February",
             "actualSavings":1500,
-            "targetSavings":2000,
+            "targetSavings":1500,
             "spending":2500
         },
         {
             "month": "March",
             "actualSavings":2000,
-            "targetSavings":2000,
+            "targetSavings":1500,
             "spending":2000
         },
         {
             "month": "April",
             "actualSavings":3500,
-            "targetSavings":3000,
+            "targetSavings":1500,
             "spending":500
         },
         {
             "month": "May",
             "actualSavings":3000,
-            "targetSavings":3000,
+            "targetSavings":1500,
             "spending":1000
         },
         {
             "month": "June",
             "actualSavings":2000,
-            "targetSavings":3000,
+            "targetSavings":1500,
             "spending":1900
         },
         {
             "month": "July",
             "actualSavings":1000,
-            "targetSavings":2000,
+            "targetSavings":1500,
             "spending":3000
         },
         {
             "month": "August",
             "actualSavings":2500,
-            "targetSavings":2000,
+            "targetSavings":1500,
             "spending":1400
         },
         {
             "month": "September",
             "actualSavings":2500,
-            "targetSavings":3000,
+            "targetSavings":1500,
             "spending":1500
         },
         {
             "month": "October",
             "actualSavings":3500,
-            "targetSavings":3000,
+            "targetSavings":1500,
             "spending":250
         },
         {
             "month": "November",
             "actualSavings":1400,
-            "targetSavings":3000,
+            "targetSavings":1500,
             "spending":2600
         },
         {
