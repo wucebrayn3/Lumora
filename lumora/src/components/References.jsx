@@ -25,7 +25,7 @@ function References(){
                 </div>
                 <div className={styles.dept}>
                     <img src={d} alt="logo" />
-                    <h3>DOTr</h3>
+                    <h3>PhilGEPS</h3>
                 </div>
             </div>
 
