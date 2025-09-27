@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Lumora/static/css/main.b8992796.css",
-    "main.js": "/Lumora/static/js/main.b3af047a.js",
+    "main.js": "/Lumora/static/js/main.afe9237e.js",
     "static/media/bir.png": "/Lumora/static/media/bir.c12d867d50e4f4825cef.png",
     "static/media/handfknshake.jpg": "/Lumora/static/media/handfknshake.d1d0c537fb28b953684a.jpg",
     "static/media/news 4.jpg": "/Lumora/static/media/news 4.12d6e29a15f6ea450220.jpg",
-    "static/media/dotr.png": "/Lumora/static/media/dotr.1292159f2007ad90d136.png",
     "static/media/MOORA LIGHT REGULER.otf": "/Lumora/static/media/MOORA LIGHT REGULER.9f5923fdf3207b1a7fac.otf",
     "static/media/news 5.jpg": "/Lumora/static/media/news 5.aa2bf89bdb182c904e2d.jpg",
+    "static/media/dpwh.png": "/Lumora/static/media/dpwh.32ca6c38115e1b9eab77.png",
     "static/media/philgeps.png": "/Lumora/static/media/philgeps.b51f1bd307a8ad2274f0.png",
     "static/media/coa.png": "/Lumora/static/media/coa.f4f3e784e7b7da122458.png",
     "static/media/instagram.png": "/Lumora/static/media/instagram.edb90ecc706a7a25542b.png",
@@ -18,10 +18,10 @@
     "static/media/news 6.jfif": "/Lumora/static/media/news 6.c5f7b89d38df3ca684ce.jfif",
     "index.html": "/Lumora/index.html",
     "main.b8992796.css.map": "/Lumora/static/css/main.b8992796.css.map",
-    "main.b3af047a.js.map": "/Lumora/static/js/main.b3af047a.js.map"
+    "main.afe9237e.js.map": "/Lumora/static/js/main.afe9237e.js.map"
   },
   "entrypoints": [
     "static/css/main.b8992796.css",
-    "static/js/main.b3af047a.js"
+    "static/js/main.afe9237e.js"
   ]
 }
