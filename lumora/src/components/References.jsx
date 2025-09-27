@@ -2,7 +2,7 @@ import styles from '../styles/References.module.css'
 
 import a from '../assets/data/images/coa.png'
 import b from '../assets/data/images/bir.png'
-import c from '../assets/data/images/dotr.png'
+import c from '../assets/data/images/dpwh.png'
 import d from '../assets/data/images/philgeps.png'
 function References(){
 
